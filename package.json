@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "gyoon dark",
+        "label": "Gyoon dark",
         "uiTheme": "vs-dark",
         "path": "./themes/gyoon dark-color-theme.json"
       }
