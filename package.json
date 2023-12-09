@@ -1,6 +1,8 @@
 {
   "name": "gyoon-dark-theme",
   "displayName": "gyoon-dark-theme",
+  "publisher": "inticoy",
+  "repository": "https://github.com/inticoy/gyoon-dark-theme",
   "description": "Ultimate dark theme especially for c/c++ language, with green text color",
   "version": "0.0.1",
   "engines": {
