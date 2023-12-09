@@ -1,0 +1,21 @@
+{
+  "name": "gyoon-dark-theme",
+  "displayName": "gyoon-dark-theme",
+  "description": "Ultimate dark theme especially for c/c++ language, with green text color",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "gyoon dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gyoon dark-color-theme.json"
+      }
+    ]
+  }
+}
