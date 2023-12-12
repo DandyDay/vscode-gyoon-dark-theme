@@ -1,16 +1,20 @@
-# gyoon-dark-theme README
+<div align="center">
+  
+![Logo](images/dark.png)
 
-## Working with Markdown
+# Gyoon Dark Theme
+**Ultimate Dark theme**
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+</div>
+ 
+ 
+## Preview
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Details
 
-## For more information
+- [Changelog](./CHANGELOG.md)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## See also...
 
-**Enjoy!**
+- [Gyoon Green Theme](https://github.com/inticoy/vscode-gyoon-green-theme)
+- [Naver Theme](https://github.com/inticoy/vscode-naver-theme)
